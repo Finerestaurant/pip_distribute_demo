@@ -6,7 +6,6 @@ setup(
     description         = 'aiffel_text_classifier',
     author              = 'seegong',
     url                 = 'https://github.com/Finerestaurant/pip_distribute_demo',
-    download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
     install_requires    =  ['tensorflow', 'matplotlib', 'tqdm', 'konlpy','JPype1'],
     license='MIT',
     packages            = find_packages(exclude = []),
