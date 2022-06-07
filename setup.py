@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name                = 'aiffel_text_classifier',
+    name                = 'aiffel_korean_tokenizer',
     version             = '0.1',
-    description         = 'aiffel_text_classifier',
+    description         = 'aiffel_korean_tokenizer for node',
     author              = 'seegong',
     url                 = 'https://github.com/Finerestaurant/pip_distribute_demo',
     install_requires    =  ['tensorflow', 'matplotlib', 'tqdm', 'konlpy','JPype1'],
