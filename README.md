@@ -1,5 +1,8 @@
-# pip_distribute_demo
-Using keras tokenizer and Mecab to tokenize korean.
+# Aiffel korean tokenizer
+---
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/aiffel-korean-tokenizer/)
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.org/project/aiffel-korean-tokenizer/)
 <br>
 
 ## File Tree
