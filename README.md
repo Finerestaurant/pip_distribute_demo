@@ -43,9 +43,13 @@ pip install aiffel-korean-tokenizer
 
 <br>
 
-- After download Mecab, you can use this module as tokenizer.
-- You can add stopwords in instance.
-- And the rest of the usage is all the same as Keras tokenizer.
+After download Mecab, you can use this module as tokenizer.
+
+
+You can add stopwords in instance.
+
+
+And the rest of the usage is all the same as Keras tokenizer.
 
 ```python 
 from aiffel_korean_tokenizer.tokenizer import Korean_tokenizer
