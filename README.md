@@ -16,7 +16,7 @@
 ├─── LICENSE
 ├─── setup.cfg
 ├─── setup.py
-└─── REAME.md
+└─── README.md
 ```
 
 ## Quick usage
