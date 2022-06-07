@@ -49,10 +49,10 @@ You can add stopwords in instance.
 And the rest of the usage is all the same as Keras tokenizer.
 
 ```python 
-from aiffel_korean_tokenizer.tokenizer import Korean_tokenizer
+import aiffel_korean_toknenizer.tokenizer as tokenizer 
 
 stopwords = ['의','가','이','은','들','는','좀','잘','걍','과','도','를','으로','자','에','와','한','하다']
 
-korean_tokenizer = Korean_tokenizer(stopwords=stopwords)
+korean_tokenizer = tokenizer.Korean_tokenizer(stopwords=stopwords)
 korean_tokenizer.fit_on_texts(texts)
 ```
