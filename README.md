@@ -43,9 +43,6 @@ pip install aiffel-korean-tokenizer
 
 <br>
 
-After download Mecab, you can use this module as tokenizer.
-
-
 You can add stopwords in instance.
 
 
