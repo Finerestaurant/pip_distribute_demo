@@ -11,7 +11,7 @@
 .
 ├─── aiffel_korean_tokenizer
 │   ├─── __init__.py
-│   ├─── tokenizer.py
+│   └─── tokenizer.py
 │
 ├─── LICENSE
 ├─── setup.cfg
