@@ -1,2 +1,20 @@
 # pip_distribute_demo
-PYPI distribute test file.
+Using keras tokenizer and Mecab to tokenize korean.
+<br>
+
+## File Tree
+
+```
+File tree.
+
+.
+├─── aiffel_korean_tokenizer
+│   ├─── __init__.py
+│   ├─── tokenizer.py
+│
+├─── LICENSE
+├─── setup.cfg
+├─── setup.py
+└─── REAME.md
+```
+

@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'aiffel_korean_tokenizer',
-    version             = '0.1',
+    version             = '0.0.0.3',
     description         = 'aiffel_korean_tokenizer for node',
     author              = 'seegong',
     url                 = 'https://github.com/Finerestaurant/pip_distribute_demo',
-    install_requires    =  ['tensorflow', 'matplotlib', 'tqdm', 'konlpy','JPype1'],
+    install_requires    =  ['tensorflow', 'konlpy','JPype1'],
     license='MIT',
     packages            = find_packages(exclude = []),
     keywords            = ['aiffel'],
